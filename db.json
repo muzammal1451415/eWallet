@@ -1,0 +1,69 @@
+{
+    "my_wallet":[
+      {
+        "id":1,
+        "driver_id":1,
+        "total_earnings":2000,
+        "outstanding_balance": 350,
+        "payment_history":[
+          {
+            "id":1,
+            "date_time":"Tuesday,17 November 2020",
+            "amount":300
+          },
+          {
+            "id":2,
+            "date_time":"Friday,12 August 2020",
+            "amount":50
+          },
+          {
+            "id":3,
+            "date_time":"Monday,11 December 2020",
+            "amount":200
+          },
+          {
+            "id":4,
+            "date_time":"Wednesday,2 November 2020",
+            "amount":1000
+          },
+          {
+            "id":5,
+            "date_time":"Sunday,4 November 2020",
+            "amount":800
+          }
+        ]
+      }
+    ],
+    "qr_payment":[{
+        "id":1,
+        "driver_id":1,
+        "total_earnings":2000,
+        "withdrawable_amount": 350,
+        "withdrawal_history":[
+            {
+                "id":1,
+                "transaction_id":"324234242334",
+                "withdrawal_amount":20000,
+                "date_time":"Friday, August 20 2021, 12:10 PM"
+            },
+            {
+                "id":2,
+                "transaction_id":"324234242334",
+                "withdrawal_amount":5000,
+                "date_time":"Friday, August 20 2021, 12:10 PM"
+            },
+            {
+                "id":3,
+                "transaction_id":"324234242334",
+                "withdrawal_amount":10000,
+                "date_time":"Friday, August 20 2021, 12:10 PM"
+            }
+        ]
+
+    }
+       
+    ]
+   
+     
+  }
+  
