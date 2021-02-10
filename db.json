@@ -4,7 +4,7 @@
         "id":1,
         "driver_id":1,
         "total_earnings":2000,
-        "outstanding_balance": 350,
+        "outstanding_balance": 501,
         "payment_history":[
           {
             "id":1,
